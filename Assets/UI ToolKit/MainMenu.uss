@@ -21,3 +21,24 @@
     background-color: rgba(255, 255, 255, 0.29);
     -unity-background-scale-mode: scale-and-crop;
 }
+
+.button {
+    align-self: center;
+    align-items: center;
+    flex-shrink: 1;
+    flex-grow: 0;
+    width: 75%;
+    height: 100px;
+    color: rgba(255, 255, 255, 0.59);
+    -unity-font: url('project://database/Assets/Font/4.%20Super%20Comic.ttf?fileID=12800000&guid=4dd7d2a90de5a8a4ebb3abd00b6628c5&type=3#4. Super Comic');
+    -unity-font-definition: initial;
+    font-size: 72px;
+    -unity-text-outline-width: 5px;
+    -unity-text-outline-color: rgb(234, 210, 148);
+    background-color: rgba(188, 188, 188, 0);
+    text-shadow: 15px 15px 5px rgb(10, 9, 9);
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.Button_Style {
+}
